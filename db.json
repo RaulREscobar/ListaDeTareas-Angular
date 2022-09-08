@@ -29,6 +29,24 @@
       "text": "Salir a correr",
       "day": "Agosto 5 a las 08:00",
       "reminder": false
+    },
+    {
+      "text": "notebook",
+      "day": "12354",
+      "reminder": true,
+      "id": 6
+    },
+    {
+      "text": "notebook",
+      "day": "12354",
+      "reminder": true,
+      "id": 7
+    },
+    {
+      "text": "neva tarea",
+      "day": "15hs domingo 19",
+      "reminder": false,
+      "id": 8
     }
   ]
 }
